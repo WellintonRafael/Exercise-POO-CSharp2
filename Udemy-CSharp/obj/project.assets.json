@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Udemy-CSharp\\Udemy-CSharp\\Udemy_CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Exercise-POO-CSharp2\\Udemy-CSharp\\Udemy_CSharp.csproj",
       "projectName": "Udemy_CSharp",
-      "projectPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Udemy-CSharp\\Udemy-CSharp\\Udemy_CSharp.csproj",
+      "projectPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Exercise-POO-CSharp2\\Udemy-CSharp\\Udemy_CSharp.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Udemy-CSharp\\Udemy-CSharp\\obj\\",
+      "outputPath": "C:\\Users\\PC\\OneDrive\\Área de Trabalho\\Treinamento\\Wellinton - Treinamento\\Exercise-POO-CSharp2\\Udemy-CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
