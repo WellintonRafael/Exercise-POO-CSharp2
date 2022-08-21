@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\bin\Debug\net6.0\Udemy-CSharp.exe
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\bin\Debug\net6.0\Udemy-CSharp.deps.json
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\bin\Debug\net6.0\Udemy-CSharp.runtimeconfig.json
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\bin\Debug\net6.0\Udemy-CSharp.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\bin\Debug\net6.0\Udemy-CSharp.pdb
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\refint\Udemy-CSharp.dll
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.pdb
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\Udemy-CSharp.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Área de Trabalho\Treinamento\Wellinton - Treinamento\Udemy-CSharp\Udemy-CSharp\obj\Debug\net6.0\ref\Udemy-CSharp.dll
