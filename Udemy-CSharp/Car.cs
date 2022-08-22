@@ -8,14 +8,16 @@
         public string Name { get; set; }
         public Motor MotorType { get; set; }
         public Brake BrakeType { get; set; }
+        public Tyre TyreType { get; set; }
         public double Price { get; set; }
 
-        public Car(string brand, string name, Motor motortype, Brake brakeType, double price)
+        public Car(string brand, string name, Motor motortype, Brake brakeType, Tyre tyreType, double price)
         {
             this.CarBrand = brand;
             this.Name = name;
             this.MotorType = motortype;
             this.BrakeType = brakeType;
+            this.TyreType = tyreType;
             this.Price = price;
         }
 
@@ -24,7 +26,7 @@
             Console.WriteLine("Quantos por cento deseja acelerar: ");
             double percent = double.Parse(Console.ReadLine());
 
-            speed = (int)(MotorType.MaxSpeed * (percent / 100));
+            speed = (int)(MotorType.MaxSpeed * (percent / 100) - (TyreType.Friction / 10));
             return speed;
         }
 

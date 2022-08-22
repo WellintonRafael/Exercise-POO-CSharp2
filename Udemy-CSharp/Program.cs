@@ -11,13 +11,19 @@
             var brakeNormal = new BrakeTypeNormal();
             var brakeABS = new BrakeTypeABS();
 
-            var car = new Car("BMW", "Chevete", motor2, brakeNormal, 1780000.00);
-            var car2 = new Car("Mercedes Benz", "Fusca", motor1, brakeABS, 204000.00);
+            var softTyre = new SoftTyre();
+            var mediumTyre = new MediumTyre();
+            var hardTyre = new HardTyre();
+
+            var car = new Car("BMW", "Chevete", motor2, brakeNormal, hardTyre, 1780000.00);
+            var car2 = new Car("Mercedes Benz", "Fusca", motor1, brakeABS, softTyre, 204000.00);
 
             // Declaração de variáveis globais
             var chosenCarID = -1;
             int newSpeed = 0;
             string chosenIfBrake = "";
+
+            //new ConnectionDB();
 
 
             Console.WriteLine("Escolha o carro que você quer dar uma voltinha por aí: \n" +
@@ -25,9 +31,10 @@
                 "Digite 1 para:\n\n" +
                 "Marca: {0}\n" +
                 "Nome: {1}\n" +
-                "Velocidade máxima: {2} km/h \n" +                
+                "Velocidade máxima: {2} km/h \n" +
                 "Tipo do freio: {3} \n" +
-                "Preço: U${4}", car.CarBrand, car.Name, car.MotorType.MaxSpeed, car.BrakeType.Name, car.Price);
+                "Maciez do pneu: {4} \n" +
+                "Preço: U${5}", car.CarBrand, car.Name, car.MotorType.MaxSpeed, car.BrakeType.Name,car.TyreType.Name, car.Price);
 
             Console.WriteLine("-----------------------------------------------------------------");
 
@@ -36,7 +43,8 @@
                 "Nome: {1}\n" +
                 "Velocidade máxima: {2} km/h \n" +
                 "Tipo do freio: {3} \n" +
-                "Preço: U${4}", car2.CarBrand, car2.Name, car2.MotorType.MaxSpeed, car2.BrakeType.Name, car2.Price);
+                "Maciez do pneu: {4} \n" +
+                "Preço: U${5}", car2.CarBrand, car2.Name, car2.MotorType.MaxSpeed, car2.BrakeType.Name,car2.TyreType.Name, car2.Price);
             Console.Write("\nDigite aqui -> ");
 
             chosenCarID = int.Parse(Console.ReadLine());
@@ -78,8 +86,7 @@
                     case "2":
                     case "não":
                         break;
-                    default :
-                        break;
+                    default:
                         Main(args);
                         return;
                 }

@@ -12,8 +12,6 @@
             this.HorsePower = horsePower;
             this.MaxSpeed = maxSpeed;
             this.Price = price;
-
-
         }
     }
 }
